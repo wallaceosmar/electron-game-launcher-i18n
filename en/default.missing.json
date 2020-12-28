@@ -1,0 +1,16 @@
+{
+  "add": {
+    "game": {
+      "manually": "add.game.manually"
+    }
+  },
+  "tray": {
+    "settings": "tray.settings",
+    "language": {
+      "reload": "tray.language.reload",
+      "language": "tray.language.language"
+    },
+    "about": "tray.about",
+    "quit": "tray.quit"
+  }
+}
