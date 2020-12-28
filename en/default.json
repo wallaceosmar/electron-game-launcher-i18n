@@ -1,16 +1,16 @@
 {
   "add": {
     "game": {
-      "manually": "add.game.manually"
+      "manually": "Add Game Manually"
     }
   },
   "tray": {
-    "settings": "tray.settings",
+    "settings": "Settings",
     "language": {
-      "reload": "tray.language.reload",
-      "language": "tray.language.language"
+      "reload": "Reload Language",
+      "language": "Languages"
     },
-    "about": "tray.about",
-    "quit": "tray.quit"
+    "about": "About",
+    "quit": "Quit"
   }
 }
